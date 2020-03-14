@@ -1,0 +1,23 @@
+1) Los ficheros spi_inicio.vhd, spi_desplaza.vhd y spi_control.vhd están incompletos. Hay que copiarlos de los apartados anteriores (ya resueltos)
+
+2) El fichero "spi_top.vhd" es el fichero top de la jerarquía. Está completo y describe un único componente que es el cableado de las 4 cajas del esquema. Este fichero no se toca
+
+3) El fichero "spi_top_tb.vhd" es el fichero de estímulos para el fichero "spi_top.vhd"
+
+4) En la simulación se verá la transmisión de la trama completa 
+
+5) En las simulaciones deben mostrarse los estados de los dos autómatas, el contador y las señales internas
+
+6) Se generará el fichero con las curva (Waveform0.wfs) para que el profesor lo evalúe
+
+7) Se copiarán y pegarán las curvas en el fichero de la memoria
+
+
+
+
+
+
+
+
+
+

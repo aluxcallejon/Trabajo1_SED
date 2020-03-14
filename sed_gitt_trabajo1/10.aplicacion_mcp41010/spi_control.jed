@@ -1,0 +1,7 @@
+ JEDECFILE:spi_control.jed			Created on:Mar 10 16:16:20 2020
+NOTE DEVICE XCR22V10-7SO24C*
+QP24* QF5828* F0*
+QV0* X0*
+
+Note PINS clk:1 resetn:2 sck:19 ssn:17 transmite:3*
+

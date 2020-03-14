@@ -1,0 +1,26 @@
+1) El fichero UCF está incompleto. Hay que completarlo. Los pines están en el esquema del enunciado de la práctica.
+
+2) El fichero spi_control.JED solo contiene la cabecera. Hay que generarlo de nuevo con la herramienta Xilinx ISE. Se deja el fichero de proyecto en Xilinx ISE
+
+3) Hacer click-izquierdo dos veces en el fichero "limpiar.bat" para que borre todos los ficheros temporales después de la implementación
+
+4) Hay que comprobar que el fichero JED generado ubica los pines de entrada y salida en las mismas posiciones que el fichero UCF. Si no fuera así prevalece la asignación de pines del fichero JED. Habría que cambiar el fichero Proteus.
+
+5) El fichero spi_inicio.JED se copiará de la carpeta en la que está resuelto
+
+6) Una vez generado el fichero sed_control.JED, se ejecutará en proteus. El fichero de proteus no está. Hay que diseñarlo.
+	-  Configurar el osciloscopio en modo One-Shot (un disparo)
+    -  Dar un reset 
+	-  Pulso en la entrada "inicio"
+
+
+
+
+
+
+
+
+
+
+
+

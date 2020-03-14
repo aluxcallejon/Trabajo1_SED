@@ -1,0 +1,7 @@
+ JEDECFILE:spi_inicio.jed			Created on:Mar 10 16:21:43 2020
+NOTE DEVICE XCR22V10-7SO24C*
+QP24* QF5828* F0*
+QV0* X0*
+
+Note PINS clk:1 inicio:3 pulso1_captura:14 pulso2_transmite:15 resetn:2*
+

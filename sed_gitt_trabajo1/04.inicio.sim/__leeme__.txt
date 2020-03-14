@@ -1,0 +1,12 @@
+1) El fichero sed_inicio.vhd está incompleto. Hay que completarlo.
+
+2) El fichero de estímulos no está. Hay que crear el fichero sed_inicio_tb.vhd
+
+3) Se generará el fichero gráfico resultado de la simulación (Waveform0.wfs) -en esta carpeta- para que el profesor lo evalúe.
+
+4) La gráfica se copiará y pegará en la memoria
+
+
+
+
+

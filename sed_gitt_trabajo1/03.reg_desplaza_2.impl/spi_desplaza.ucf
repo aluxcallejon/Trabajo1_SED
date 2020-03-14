@@ -1,0 +1,4 @@
+NET "clk"          LOC = "P1" ;
+NET "resetn"       LOC = "P2" ;
+
+NET "byte[0]"      LOC = "P4" ;

@@ -1,0 +1,12 @@
+1) El fichero sed_desplaza.vhd está incompleto. Hay que completarlo.
+
+2) El proceso para los estímulos están incompleto. Falta el pulso de captura y los 8 pulsos de la señal desplaza. Estos pulsos se realizarán con un bucle.
+
+3) Se generará el fichero gráfico resultado de la simulación (Waveform0.wfs) -en esta carpeta- para que el profesor lo evalúe.
+
+4) La gráfica se copiará y pegará en la memoria
+
+
+
+
+
